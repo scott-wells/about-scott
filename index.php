@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>A Few Facts About Scott</title>
+		<link rel="stylesheet" type="text/css" href="./style.css">
 	</head>
 	<body>
 		<h1>A Few Facts About Scott</h1>
@@ -16,8 +17,10 @@
 			<li>Chocolate Pie</li>
 			<li>Vietmanese Noodle Bowls</li>
 		</ul>
+		<div class="avatar">
 		<p>This is what he looks like:</p>
 		<img src="scott-avatar.png" alt="scott avatar"/>
+		</div>
 		<p>If you have any more questions about his origins or chemical makeup, please don't hesitate to ask!</p>
 	</body>
 </html>
