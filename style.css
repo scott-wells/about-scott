@@ -1,8 +1,8 @@
-.avatar {
-	background-color: powderblue;
+h1 {
+	background-color: lightgray;
 }
 
-img {
-	height: 25%;
+.avatar img {
 	width: 25%;
+	margin: 0 0;
 }
