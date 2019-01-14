@@ -1,5 +1,15 @@
 h1 {
 	background-color: lightgray;
+	font-family: sans-serif;
+}
+
+p {
+	font-family: sans-serif;
+}
+
+li {
+	font-family: sans-serif;
+	line-height: 1.3em;
 }
 
 .avatar img {
