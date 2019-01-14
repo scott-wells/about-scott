@@ -21,6 +21,6 @@
 		<p>This is what he looks like:</p>
 		<img src="scott-avatar.png" alt="scott avatar"/>
 		</div>
-		<p>If you have any more questions about his origins or chemical makeup, please don't hesitate to ask!</p>
+		<p>If you have any more questions about his origins, please don't hesitate to ask!</p>
 	</body>
 </html>
