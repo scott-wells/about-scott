@@ -9,7 +9,7 @@
 		<h1>A Few Facts About Scott</h1>
 		<p>Scott was raised in the wilds of central New Mexico.</p>
 		<p>As you may know, indigenous humans from higher elevations are naturally omnivores.
-			This is due to both temperature and elevation.</p>
+			This is due to both temperature and air density.</p>
 		<p>Scott enjoys a variety of foods, including:</p>
 		<ul>
 			<li>Cheeseburgers</li>
